@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dylan Moffett</h1>
 <h3 align="center">A self-taught programmer passionate about Artifical Intelligence</h3>
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning**
+- 🌱 I’m currently learning **Machine Learning and AI engineering**
 - My goal is to build AI applications & land a job in AI
 - 📫 How to reach me **dylanmoffett@hotmail.com**
 ### Here are some of my current projects:
