@@ -6,6 +6,8 @@
 
 I build projects where software interacts with physical hardware, from distributed ESP32 sensor nodes to wireless robots. I am particularly interested in embedded software, hardware integration, and reliable systems that operate beyond the browser.
 
+Seeking Summer 2027 internships 
+
 ## Featured Projects
 
 ### [Sovereign Edge Gateway](https://github.com/Codeedup/sovereign-edge-gateway)
